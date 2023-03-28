@@ -8,7 +8,7 @@ The files are organised per day and will be updated accordingly.
 
 ### Proposed Schedule
 _week 1_  
-**Day 1**: Introduction, Simple Python, strings, numbers  
+**Day 1**: Course intro, using Python, Strings, Numbers  
 **Day 2**: Data types (dictionaries, booleans, lists), Program logic, Loops & Control flow (for, while, if/else)  
 **Day 3**: Functions, Sets, Tuples, Code structure, Practice with loops and data types learned so far  
 **Day 4**: File handling, file parsing, practice day with functions   
@@ -18,5 +18,5 @@ _week 2_
 **Day 1**: Object-oriented programming, basics of data science: Jupyter, Pandas, Scipy  
 **Day 2**: Plotting: Matplotlib, Seaborn  
 **Day 3**: Biology: BLAST, Biopython  
-**Day 4**: Coding Practice, pathlib and argparse, start to work on assignments 
+**Day 4**: Coding Practice, pathlib and argparse, start to work on assignments   
 **Day 5**: Best practices, Good code, Work on assignments 
