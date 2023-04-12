@@ -16,7 +16,7 @@ _week 1_
 
 _week 2_  
 **Day 6**: Object-oriented programming, basics of data science: Jupyter, Pandas, Scipy  
-**Day 2**: Plotting: Matplotlib, Seaborn  
-**Day 3**: Biology: BLAST, Biopython  
-**Day 4**: Coding Practice, pathlib and argparse, start to work on assignments   
-**Day 5**: Best practices, Good code, Work on assignments 
+**Day 7**: Plotting: Matplotlib, Seaborn  
+**Day 8**: Biology: BLAST, Biopython  
+**Day 9**: Coding Practice, pathlib and argparse, start to work on assignments   
+**Day 10**: Best practices, Good code, Work on assignments 
