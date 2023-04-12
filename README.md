@@ -15,7 +15,7 @@ _week 1_
 **Day 5**: Advanced functions, modules, more practice  
 
 _week 2_  
-**Day 1**: Object-oriented programming, basics of data science: Jupyter, Pandas, Scipy  
+**Day 6**: Object-oriented programming, basics of data science: Jupyter, Pandas, Scipy  
 **Day 2**: Plotting: Matplotlib, Seaborn  
 **Day 3**: Biology: BLAST, Biopython  
 **Day 4**: Coding Practice, pathlib and argparse, start to work on assignments   
