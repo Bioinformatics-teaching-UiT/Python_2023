@@ -11,8 +11,8 @@ _week 1_
 **Day 1**: Course intro, using Python, Strings, Numbers  
 **Day 2**: Booleans, Data structures (dictionaries, lists), Loops & Control flow (for, while, if/else)  
 **Day 3**: Functions, Sets, Tuples, Code structure, Practice with loops and data types learned so far  
-**Day 4**: File handling, file parsing, practice day with functions   
-**Day 5**: Advanced functions, modules, more practice  
+**Day 4**: File handling, file parsing, practice day with recap exercises    
+**Day 5**: Modules, advanced functions, error handling, more practice   
 
 _week 2_  
 **Day 6**: Object-oriented programming, basics of data science: Jupyter, Pandas, Scipy  
