@@ -8,7 +8,7 @@ The files are organised per day and will be updated accordingly.
 
 ### Proposed Schedule
 _week 1_  
-**Day 1**: Course intro, using Python, Strings, Numbers  
+**[Day 1](basics_day1)**: Course intro, using Python, Strings, Numbers  
 **Day 2**: Booleans, Data structures (dictionaries, lists), Loops & Control flow (for, while, if/else)  
 **Day 3**: Functions, Sets, Tuples, Code structure, Practice with loops and data types learned so far  
 **Day 4**: File handling, file parsing, practice day with recap exercises    
