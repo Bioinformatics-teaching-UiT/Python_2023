@@ -46,7 +46,22 @@ print(newstr.capitalize())
 strwithwhitespace = "       sometext       "
 print(strwithwhitespace.strip())
 
+# replace method
+numbers = 'one, two, three, four'
+numbers_hyphen = numbers.replace(' ', '-')
+print(numbers)
+print(numbers_hyphen)
 
+# lower method
+print('ABC'.lower())
+
+# split method
+print(numbers.split(', '))
+
+# f-str
+name = 'jane'
+message = f'{name} is a student'
+print(message)
 
 
 
