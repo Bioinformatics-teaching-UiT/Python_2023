@@ -7,7 +7,7 @@ print('Hello! Welcome to the Python Course')
 # you can print quotes inside another string by sandwiching them as follows
 somestr = "a string 'between' doublequotes"
 
-print('somestr')
+print(somestr)
 
 # difference between an integer and float
 ten_int = 10
