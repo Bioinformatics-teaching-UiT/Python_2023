@@ -9,7 +9,7 @@ The files are organised per day and will be updated accordingly.
 Course description: [MSc](courseinfo/python_course_msc.pdf) [PhD](python_course_phd.pdf)  
 Description of [final assignment](courseinfo/final_assignment_guidelines.pdf)
 
-### Proposed Schedule
+### Schedule Overview
 _week 1_  
 **[Day 1](basics_day1)**: Course intro, using Python, Strings, Numbers  
 **[Day 2](datastructures_day2)**: Booleans, Data structures (dictionaries, lists), Loops & Control flow (for, while, if/else)  
@@ -23,3 +23,9 @@ _week 2_
 **Day 8**: Biology: BLAST, Biopython  
 **Day 9**: Coding Practice, pathlib and argparse, start to work on assignments   
 **Day 10**: Best practices, Good code, Work on assignments 
+
+### Content
+_week 1_
+1. [Day 1](basics_day1)
+	* [exercise list]:(basics_day1/day1_exercises.pdf)
+
