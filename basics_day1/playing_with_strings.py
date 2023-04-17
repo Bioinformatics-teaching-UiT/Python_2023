@@ -63,6 +63,11 @@ name = 'jane'
 message = f'{name} is a student'
 print(message)
 
+# add two strings
+print('firstpart' + 'secondpart')
+
+# duplicate/multiply strings
+print('onetime'*10)
 
 
 
