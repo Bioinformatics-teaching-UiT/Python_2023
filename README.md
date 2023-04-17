@@ -24,8 +24,24 @@ _week 2_
 **Day 9**: Coding Practice, pathlib and argparse, start to work on assignments   
 **Day 10**: Best practices, Good code, Work on assignments 
 
-### Content
+### Breakdown of Content per Day
 _week 1_
 1. [Day 1](basics_day1)
-	* [exercise list]:(basics_day1/day1_exercises.pdf)
+	* [introductory lecture](basics_day1/0_introduction.pdf)
+		* brief overview of the course and expectations, practical info
+	* [introductory lecture 2](basics_day1/1_1_basics.pdf)
+		* what is inside your computer and how this relates to programming
+		* operating systems, intro to the terminal
+		* 3 ways of writing and running Python: interactive shell, script, IDE, [-->](basics_day1/script.py)
+	* [variables, strings, numbers lecture](basics_day1/1_2_variables.pdf)
+		* use of variables as placeholders for objects
+		* Strings in python and their behaviour [-->](basics_day1/playing_with_strings.py)
+		* basic number operations [-->](basics_day1/number_operations.py)
+		* avoid whitespace at beginning of lines
+		* how to comment in the script with hashtags and multiple line comments
+		* general functions vs. methods
+	* [exercise list](basics_day1/day1_exercises.pdf)
+		* [greeter exercise](basics_day1/greeter.py)
+		* [pizza volume calculator](basics_day1/pizza_area.py)
+		* [string replacement exercises](basics_day1/replace_in_str.py)
 
