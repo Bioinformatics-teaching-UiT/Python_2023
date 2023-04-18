@@ -15,3 +15,17 @@ number = 0
 while number < 10:
     print(f'{number} is less than 10.')
     number = number + 2
+    
+    
+while True:
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
