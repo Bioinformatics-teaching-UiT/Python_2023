@@ -44,4 +44,18 @@ _week 1_
 		* [greeter exercise](basics_day1/greeter.py)
 		* [pizza volume calculator](basics_day1/pizza_area.py)
 		* [string replacement exercises](basics_day1/replace_in_str.py)
+2. [Day 2](datastructures_day2)
+	* [data structures lecture](datastructures_day2/2_1_data_structures.pdf)
+		* booleans don't behave as you would expect in Python, a lot more map to True [-->](datastructures_day2/practice_with_booleans.py)
+		* if statements structured by indentation, meaning of if, elif, and else [-->](datastructures_day2/practice_with_booleans.py)
+		* mutable types 1: lists can contain anything, and are readily changeable [-->](datastructures_day2/demo_with_lists.py)
+		* mutable types 2: dictionaries are a key to value mapping sequence, even better than lists [-->](datastructures_day2/demo_with_dict.py)
+		* for loops: use when you know how many times or what you want to loop over [-->](demo_for_loop.py)
+		* while loops: use when you want to stop only if condition is met or don't know how many times you want to loop [-->](demo_while_loop.py)
+	* [exercise list](datastructures_day2/day2_exercises.pdf)
+		* [test number even odd exercise](datastructures_day2/test_number_odd_even.py)
+		* [print number in loop exercise](datastructures_day2/print_number_in_loop.py)
+		* [guess the number exercise basic](datastructures_day2/guess_the_number.py)
+	
+		
 
