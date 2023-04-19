@@ -13,8 +13,8 @@ Description of [final assignment](courseinfo/final_assignment_guidelines.pdf)
 _week 1_  
 **[Day 1](basics_day1)**: Course intro, using Python, Strings, Numbers  
 **[Day 2](datastructures_day2)**: Booleans, Data structures (dictionaries, lists), Loops & Control flow (for, while, if/else)  
-**[Day 3](functions_day3)**: Functions, Sets, Tuples, Code structure, Practice with loops and data types learned so far  
-**[Day 4](fileIO_day4)**: File handling, file parsing, practice day with recap exercises    
+**[Day 3](functions_day3)**: Functions, Code structure, Practice with loops and data types learned so far  
+**[Day 4](fileIO_day4)**: Sets, Tuples, File handling, file parsing, list comprehension, practice day with recap exercises    
 **[Day 5](modules_day5)**: Modules, advanced functions, error handling, more practice   
 
 _week 2_  
