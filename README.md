@@ -58,6 +58,19 @@ _week 1_
 		* [guess the number exercise basic](datastructures_day2/guess_the_number.py)
 			* [Gaute game with hints](datastructures_day2/gaute_guess_the_number.py)
 			* [Marja game that counts attempts](datastructures_day2/marja_guess_the_number.py)
+		* [guess the number exercise advanced with numeric checker](datastructures_day2/number_guesser_checks_numeric.py)
+3. [Day 3](functions_day3)
+	* [functions lecture](functions_day3/functions_control_flow_day3.pdf): only covered functions and scope in this lecture
+		* recap of day 2 while loop guessing game [-->](datastructures_day2/number_guesser_checks_numeric.py)
+		* recap of day 2 with gc content script [-->](functions_day3/get_gc_content.py)
+		* [introduction to functions](functions_day3/demo_with_functions.py)
+	* [exercise list](functions_day3/day3_exercises.pdf)
+		* [function to calculate mean](functions_day3/calculate_mean.py)
+		* [function to calculate gc content](functions_day3/gc_calculator_function.py)
+		* [function to invert a string, or swap its case](functions_day3/inverse_string.py)
+		* [function to calculate factorial](functions_day3/calculate_factorial)
+	
+
 	
 		
 
