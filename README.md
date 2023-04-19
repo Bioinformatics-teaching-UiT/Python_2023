@@ -56,6 +56,8 @@ _week 1_
 		* [test number even odd exercise](datastructures_day2/test_number_odd_even.py)
 		* [print number in loop exercise](datastructures_day2/print_number_in_loop.py)
 		* [guess the number exercise basic](datastructures_day2/guess_the_number.py)
+			* [Gaute game with hints](datastructures_day2/gaute_guess_the_number.py)
+			* [Marja game that counts attempts](datastructures_day2/marja_guess_the_number.py)
 	
 		
 
