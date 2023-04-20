@@ -26,6 +26,11 @@ with open(numbers_file, 'r') as infile:
     for line in infile:
         print(line.strip())
         
+# readlines() method
+with open(numbers_file, 'r') as infile:
+    lines = infile.readlines()
+    
+
 
 
 
