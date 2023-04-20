@@ -69,6 +69,13 @@ _week 1_
 		* [function to calculate gc content](functions_day3/gc_calculator_function.py)
 		* [function to invert a string, or swap its case](functions_day3/inverse_string.py)
 		* [function to calculate factorial](functions_day3/calculate_factorial)
+4. [Day 4](fileIO_day4)
+	* [demo with list comprehension](fileIO_day4/demo_list_comprehension.py)
+		* [even odd list comprehension exercise](fileIO_day4/even_odd_list_comprehension.py)
+	* [demo sets tuples](fileIO_day4/demo_sets_tuples.py)
+	* [exercise list](fileIO_day4/mean_file_reading_exercise.py)
+		* [mean file reading exercise](fileIO_day4/mean_file_reading_exercise.py)
+	
 	
 
 	
