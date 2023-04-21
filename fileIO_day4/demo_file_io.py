@@ -31,6 +31,15 @@ with open(numbers_file, 'r') as infile:
     lines = infile.readlines()
     
 
+# write something into a file
+outfile = 'new_numbers.txt'
+
+numbers_list = [1,2,3,4,5]
+
+with open(outfile, 'w') as f:
+    for number in numbers_list:
+        f.write(f'{number}\n')
+
 
 
 
