@@ -18,11 +18,11 @@ _week 1_
 **[Day 5](review_day5)**: Review day with focus on File IO, Rosalind exercises   
 
 _week 2_  
-**[Day 6](modules_day6)**: Modules, error handling, numpy
-**Day 7**: Jupyter, Data science packages: Pandas, Scipy 
-**Day 8**: Plotting with Matplotlib and Seaborn
-**Day 9**: Biopython, pathlib and argparse, start to work on assignments   
-**Day 10**: Best practices, Good code, Work on assignments 
+**[Day 6](modules_day6)**: Modules, error handling, numpy  
+**Day 7**: Jupyter, Data science packages: Pandas, Scipy   
+**Day 8**: Plotting with Matplotlib and Seaborn  
+**Day 9**: Biopython, pathlib and argparse, start to work on assignments     
+**Day 10**: Best practices, Good code, Work on assignments   
 
 ### Breakdown of Content per Day
 _week 1_
