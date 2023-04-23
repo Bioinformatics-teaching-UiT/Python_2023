@@ -15,13 +15,13 @@ _week 1_
 **[Day 2](datastructures_day2)**: Booleans, Data structures (dictionaries, lists), Loops & Control flow (for, while, if/else)  
 **[Day 3](functions_day3)**: Functions, Code structure, Practice with loops and data types learned so far  
 **[Day 4](fileIO_day4)**: Sets, Tuples, File handling, file parsing, list comprehension, practice day with recap exercises    
-**[Day 5](modules_day5)**: Modules, advanced functions, error handling, more practice   
+**[Day 5](review_day5)**: Review day with focus on File IO, Rosalind exercises   
 
 _week 2_  
-**Day 6**: Object-oriented programming, basics of data science: Jupyter, Pandas, Scipy  
-**Day 7**: Plotting: Matplotlib, Seaborn  
-**Day 8**: Biology: BLAST, Biopython  
-**Day 9**: Coding Practice, pathlib and argparse, start to work on assignments   
+**[Day 6](modules_day6)**: Modules, error handling, numpy
+**Day 7**: Jupyter, Data science packages: Pandas, Scipy 
+**Day 8**: Plotting with Matplotlib and Seaborn
+**Day 9**: Biopython, pathlib and argparse, start to work on assignments   
 **Day 10**: Best practices, Good code, Work on assignments 
 
 ### Breakdown of Content per Day
