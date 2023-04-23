@@ -75,6 +75,14 @@ _week 1_
 	* [demo sets tuples](fileIO_day4/demo_sets_tuples.py)
 	* [exercise list](fileIO_day4/mean_file_reading_exercise.py)
 		* [mean file reading exercise](fileIO_day4/mean_file_reading_exercise.py)
+5. [Day 5](review_day5): Today is a review day, focusing on all we have learned so far.  
+	* [exercise list](review_day5/exercise_outline_wk1_day5.pdf)
+	* [rainfall exercise](review_day5/average_rainfall.py)
+		* use the [rainfall data](review_day5/rainfall.txt)
+	* [rosalind count nucleotides exercise](review_day5/rosalind_count_nucleotides.py)
+	* [rosalind transcribe dna to rna exercise](review_day5/rosalind_transcribe_dna_to_rna.py)
+	* [rosalind reverse complement exercise](review_day5/rosalind_reverse_complement_dna.py)
+	
 	
 	
 
