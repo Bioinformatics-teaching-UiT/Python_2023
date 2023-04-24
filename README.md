@@ -82,7 +82,14 @@ _week 1_
 	* [rosalind count nucleotides exercise](review_day5/rosalind_count_nucleotides.py)
 	* [rosalind transcribe dna to rna exercise](review_day5/rosalind_transcribe_dna_to_rna.py)
 	* [rosalind reverse complement exercise](review_day5/rosalind_reverse_complement_dna.py)
-	
+6. [Day 6](modules_day6)
+	* [demo with modules](modules_day6/demo_modules.py)
+		* use the [greeter functions](modules_day6/greeter.py) in the demo
+	* [brief introduction to lambda](modules_day6/lambda_exercise.py)
+	* [exercise list](modules_day6/exercise_list_day6.pdf)
+	* [building a module out of rosalind](modules_day6/rosalind_utils.py)
+		* import the rosalind module in [sequence analysis script](modules_day6/sequence_analysis.py)
+	* [rosalind GC content exercise](modules_day6/rosalind_gc_content_full.py): very good exercise to practice!
 	
 	
 
