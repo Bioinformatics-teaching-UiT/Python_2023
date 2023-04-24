@@ -8,7 +8,6 @@ Rosalind utilities module
 @author: yin
 """
 
-print('You have imported rosalind_utils')
 # count nucleotides
 
 def nucl_counter_seqloop(sequence):
@@ -69,6 +68,25 @@ def reverse_complement(dnaseq):
     
     return revcomp_dnaseq
 
+def gc_calculator(seq):
+    """
+    This function calculates the GC content
+    of a sequence, and gives it as a percentage.
+    
+    Parameters
+    ----------
+    seq: str
+        sequence of DNA
+
+    Returns
+    -------
+    gc_percentage: float
+        number corresponding to % G or C in seq
+    """
+    gc_count = seq.count('G') + seq.count('C')
+    gc_percentage = 100 * (gc_count/len(seq))
+    return gc_percentage
+
 if __name__ == '__main__': # if script is run as a standalone program
 
     seq = 'TCATTCTGACTGCAACGGGCAATATGTCTCT'
@@ -80,6 +98,6 @@ if __name__ == '__main__': # if script is run as a standalone program
     print(rev_comp)
 
 
-print('end of script')
+
 
 
