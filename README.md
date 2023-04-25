@@ -20,12 +20,14 @@ _week 1_
 _week 2_  
 **[Day 6](modules_day6)**: Modules, error handling, numpy  
 **Day 7**: Jupyter, Data science packages: Pandas, Scipy   
-**Day 8**: Plotting with Matplotlib and Seaborn  
+**[Day 8](plotting_day8)**: Plotting with Matplotlib and Seaborn  
 **Day 9**: Biopython, pathlib and argparse, start to work on assignments     
 **Day 10**: Best practices, Good code, Work on assignments   
 
 ### Breakdown of Content per Day
+
 _week 1_
+
 1. [Day 1](basics_day1)
 	* [introductory lecture](basics_day1/0_introduction.pdf)
 		* brief overview of the course and expectations, practical info
@@ -82,6 +84,10 @@ _week 1_
 	* [rosalind count nucleotides exercise](review_day5/rosalind_count_nucleotides.py)
 	* [rosalind transcribe dna to rna exercise](review_day5/rosalind_transcribe_dna_to_rna.py)
 	* [rosalind reverse complement exercise](review_day5/rosalind_reverse_complement_dna.py)
+
+
+_week 2_
+
 6. [Day 6](modules_day6)
 	* [demo with modules](modules_day6/demo_modules.py)
 		* use the [greeter functions](modules_day6/greeter.py) in the demo
@@ -91,9 +97,11 @@ _week 1_
 		* import the rosalind module in [sequence analysis script](modules_day6/sequence_analysis.py)
 	* [rosalind GC content exercise](modules_day6/rosalind_gc_content_full.py): very good exercise to practice!
 	* practice with [regular expressions](www.regexone.com)
-	
-	
-
-	
-		
-
+7. Day 7: to be added ...
+8. [Day 8](plotting_day8)
+    * We start and work in the Jupyter notebook
+    * Introduction to Matplotlib
+	* From a simple plot towards plot customization
+    * From Matplotlib towards other plotting libraries
+    * Learning how to re-use and adapt a gallery example
+    * Learning how to re-use an example with own data
