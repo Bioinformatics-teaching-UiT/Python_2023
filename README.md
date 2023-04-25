@@ -90,6 +90,7 @@ _week 1_
 	* [building a module out of rosalind](modules_day6/rosalind_utils.py)
 		* import the rosalind module in [sequence analysis script](modules_day6/sequence_analysis.py)
 	* [rosalind GC content exercise](modules_day6/rosalind_gc_content_full.py): very good exercise to practice!
+	* practice with [regular expressions](www.regexone.com)
 	
 	
 
