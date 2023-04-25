@@ -25,7 +25,9 @@ _week 2_
 **Day 10**: Best practices, Good code, Work on assignments   
 
 ### Breakdown of Content per Day
+
 _week 1_
+
 1. [Day 1](basics_day1)
 	* [introductory lecture](basics_day1/0_introduction.pdf)
 		* brief overview of the course and expectations, practical info
@@ -82,6 +84,10 @@ _week 1_
 	* [rosalind count nucleotides exercise](review_day5/rosalind_count_nucleotides.py)
 	* [rosalind transcribe dna to rna exercise](review_day5/rosalind_transcribe_dna_to_rna.py)
 	* [rosalind reverse complement exercise](review_day5/rosalind_reverse_complement_dna.py)
+
+
+_week 2_
+
 6. [Day 6](modules_day6)
 	* [demo with modules](modules_day6/demo_modules.py)
 		* use the [greeter functions](modules_day6/greeter.py) in the demo
