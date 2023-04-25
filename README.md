@@ -99,6 +99,7 @@ _week 2_
 	* practice with [regular expressions](www.regexone.com)
 7. Day 7: to be added ...
 8. [Day 8](plotting_day8)
+    * We start and work in the Jupyter notebook
     * Introduction to Matplotlib
 	* From a simple plot towards plot customization
     * From Matplotlib towards other plotting libraries
