@@ -104,4 +104,4 @@ _week 2_
 	* From a simple plot towards plot customization
     * From Matplotlib towards other plotting libraries
     * Learning how to re-use and adapt a gallery example
-    * Learing how to re-use an example with own data
+    * Learning how to re-use an example with own data
