@@ -20,7 +20,7 @@ _week 1_
 _week 2_  
 **[Day 6](modules_day6)**: Modules, error handling, numpy  
 **Day 7**: Jupyter, Data science packages: Pandas, Scipy   
-**Day 8**: Plotting with Matplotlib and Seaborn  
+**[Day 8](plotting_day8)**: Plotting with Matplotlib and Seaborn  
 **Day 9**: Biopython, pathlib and argparse, start to work on assignments     
 **Day 10**: Best practices, Good code, Work on assignments   
 
@@ -91,9 +91,10 @@ _week 1_
 		* import the rosalind module in [sequence analysis script](modules_day6/sequence_analysis.py)
 	* [rosalind GC content exercise](modules_day6/rosalind_gc_content_full.py): very good exercise to practice!
 	* practice with [regular expressions](www.regexone.com)
-	
-	
-
-	
-		
-
+7. Day 7: to be added ...
+8. [Day 8](plotting_day8)
+    * Introduction to Matplotlib
+	* From a simple plot towards plot customization
+    * From Matplotlib towards other plotting libraries
+    * Learning how to re-use and adapt a gallery example
+    * Learing how to re-use an example with own data
