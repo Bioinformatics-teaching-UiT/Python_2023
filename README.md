@@ -19,10 +19,10 @@ _week 1_
 
 _week 2_  
 **[Day 6](modules_day6)**: Modules, error handling, numpy  
-**Day 7**: Jupyter, Data science packages: Pandas, Scipy   
-**[Day 8](plotting_day8)**: Plotting with Matplotlib and Seaborn  
-**Day 9**: Biopython, pathlib and argparse, start to work on assignments     
-**Day 10**: Best practices, Good code, Work on assignments   
+**[Day 7](numpy_scipy_pandas_day7)**: Jupyter, intro to data science with Pandas  
+**[Day 8](plotting_day8)**: Plotting with Matplotlib and Seaborn    
+**Day 9**: More pandas (biodiversity assignment), numpy, scipy    
+**Day 10**: biopython, best coding practices, start work on assignments    
 
 ### Breakdown of Content per Day
 
@@ -96,9 +96,17 @@ _week 2_
 	* [building a module out of rosalind](modules_day6/rosalind_utils.py)
 		* import the rosalind module in [sequence analysis script](modules_day6/sequence_analysis.py)
 	* [rosalind GC content exercise](modules_day6/rosalind_gc_content_full.py): very good exercise to practice!
-	* practice with [regular expressions](www.regexone.com)
-7. Day 7: to be added ...
+	* practice with [regular expressions](https://regexone.com/)
+7. [Day 7](numpy_scipy_pandas_day7): We only cover jupyter and pandas today! Numpy and Scipy we will get more into on Thursday
+	* [introduction to jupyter notebook](numpy_scipy_pandas_day7/intro_jupy_pandas.ipynb)
+	* [introduction to pandas](numpy_scipy_pandas_day7/presentation_pandas.ipynb)
+		* use the [tips dataset](numpy_scipy_pandas_day7/tips.csv), [iris dataset](numpy_scipy_pandas_day7/iris.csv), and [gene mapping dataset](numpy_scipy_pandas_day7/gene_mapping.tsv)
+	* our main exercise today is the [biodiversity](numpy_scipy_pandas_day7/biodiversity) exercise
+		* you need the [species](numpy_scipy_pandas_day7/biodiversity/species_info.csv) and [observation](numpy_scipy_pandas_day7/biodiversity/observations.csv) datasets
+		* we skip the plotting and statistics parts (chi squared test)
+		* use pandas for this exercise
 8. [Day 8](plotting_day8)
+	* zoom link for exercise sharing: https://uit.zoom.us/j/62796373530?pwd=MFJoZGg3NWNnMEFuc3RaNTZTS3Rodz09
     * We start and work in the Jupyter notebook
     * Introduction to Matplotlib
 	* From a simple plot towards plot customization
