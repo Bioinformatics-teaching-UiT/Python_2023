@@ -106,6 +106,7 @@ _week 2_
 		* we skip the plotting and statistics parts (chi squared test)
 		* use pandas for this exercise
 8. [Day 8](plotting_day8)
+	* zoom link for exercise sharing: https://uit.zoom.us/j/62796373530?pwd=MFJoZGg3NWNnMEFuc3RaNTZTS3Rodz09
     * We start and work in the Jupyter notebook
     * Introduction to Matplotlib
 	* From a simple plot towards plot customization
