@@ -19,10 +19,10 @@ _week 1_
 
 _week 2_  
 **[Day 6](modules_day6)**: Modules, error handling, numpy  
-**Day 7**: Jupyter, Data science packages: Pandas, Scipy   
+**[Day 7](numpy_scipy_pandas_day7)**: Jupyter, intro to data science with Pandas
 **[Day 8](plotting_day8)**: Plotting with Matplotlib and Seaborn  
-**Day 9**: Biopython, pathlib and argparse, start to work on assignments     
-**Day 10**: Best practices, Good code, Work on assignments   
+**Day 9**: More pandas (biodiversity assignment), numpy, scipy    
+**Day 10**: biopython, best coding practices, start work on assignments    
 
 ### Breakdown of Content per Day
 
