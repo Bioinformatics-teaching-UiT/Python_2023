@@ -22,3 +22,8 @@
   - Solving problems
   - More Python learning
 - Optional exercise: [Linear and non-linear regression](https://coderefinery.github.io/data-visualization-python/regression/)
+
+
+## References
+
+- "Same stats, different graphs": https://doi.org/10.1145/3025453.3025912
