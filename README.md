@@ -115,5 +115,6 @@ _week 2_
     * Learning how to re-use an example with own data
 9. [Day 9](numpy_scipy_day9)
 	* [introduction to Git](https://rogerdudler.github.io/git-guide/)
-	
-Typed some changes in readme
+	* [numpy exercise worksheet](numpy_scipy_day9/presentation_numpy.ipynb) as jupyter notebook
+	* [finish biodiversity exercise](numpy_scipy_day9/biodiversity_key.ipynb)
+		* **skip** chi squared test and the last minimum detectable size part (last two lines of code)
