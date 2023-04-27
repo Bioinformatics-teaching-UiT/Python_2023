@@ -113,3 +113,5 @@ _week 2_
     * From Matplotlib towards other plotting libraries
     * Learning how to re-use and adapt a gallery example
     * Learning how to re-use an example with own data
+9. [Day 9](numpy_scipy_day9)
+	* [introduction to Git](https://rogerdudler.github.io/git-guide/)
